@@ -27,7 +27,7 @@ Enter 5 numbers:
 The maximum value in the array is: 77
 ```
 
-
+<!--
 ## 3. Print Multiplication Table
 Write a program that prints the multiplication table for a given number.
 
@@ -76,3 +76,4 @@ Enter operation (+, -, *, /): *
 Enter second number: -19
 Result: -114.0
 ```
+-->
